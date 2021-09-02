@@ -57,7 +57,7 @@ public class chatmain extends AppCompatActivity {
                 recyclerView.setLayoutManager(new LinearLayoutManager(chatmain.this));
                 recyclerView.setAdapter(chatAdapter);
                 messagebox.setText("");
-                //wait testing i dunno why it didnt go to chat feature
+
 
 
 
