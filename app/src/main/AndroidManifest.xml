@@ -14,11 +14,11 @@
         <activity android:name=".Register"></activity>
         <activity android:name=".LoginNext"></activity>
         <activity android:name=".Login"></activity>
+        <activity android:name=".chatmain"></activity>
         <activity android:name=".MainActivity">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>

@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Gail Tecson/AndroidStudioProjects/MobileMarikina/app/src/main/res/drawable/messenger1.xml" value="0.1388888888888889" />
         <entry key="..\:/Users/Gail Tecson/AndroidStudioProjects/MobileMarikina/app/src/main/res/layout/chatfeature.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Gail Tecson/AndroidStudioProjects/MobileMarikina/app/src/main/res/layout/messenger1.xml" value="0.1" />
+        <entry key="..\:/Users/Gail Tecson/AndroidStudioProjects/MobileMarikina/app/src/main/res/layout/messenger2.xml" value="0.1" />
       </map>
     </option>
   </component>
