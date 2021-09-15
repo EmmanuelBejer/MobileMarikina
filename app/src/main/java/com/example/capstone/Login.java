@@ -16,7 +16,6 @@ public class Login extends AppCompatActivity {
     int MobileNumber;
 
     EditText MobileNumberInput;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
