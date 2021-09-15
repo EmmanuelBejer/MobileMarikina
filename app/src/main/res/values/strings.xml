@@ -8,4 +8,17 @@
     <string name="numbers">9123456789</string>
     <string name="resend">RESEND OTP</string>
     <string name="OTP">OTP VERIFICATION</string>
+    <string name="hospital1">Address: 49 Bayan-Bayanan ave, Marikina, 1800 Metro Manila
+        Hours: Open ⋅ Closes 5:30AM Thu
+        Phone: (02) 8941 5511</string>
+    <string name="hospital2">Address: 49 Bayan-Bayanan ave, Marikina, 1800 Metro Manila
+        Hours: Open ⋅ Closes 5:30AM Thu
+        Phone: (02) 8941 5511</string>
+    <string name="hospital3">Address: 49 Bayan-Bayanan ave, Marikina, 1800 Metro Manila
+        Hours: Open ⋅ Closes 5:30AM Thu
+        Phone: (02) 8941 5511</string>
+    <string name="hosname1">Garcia General Hospital</string>
+    <string name="hosname2">Garcia General Hospital</string>
+    <string name="hosname3">Garcia General Hospital</string>
+
 </resources>
